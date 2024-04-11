@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <color name="black">#FF000000</color>
+    <color name="blue">#FFFFFF</color>
+    <color name="back_color_light">#191919</color>
+    <color name="ripple_blue">#676666</color>
+    <color name="b_ripple_blue">#CF4B4B</color>
+    <color name="ripple_red">#AC3737</color>
+    <color name="red">#ef473a</color>
+    <color name="dark_blue">#103A51</color>
+
+    <color name="text">#FFFFFF</color>
+    <color name="g1">#2B2A2A</color>
+
+    <color name="g3">#1E1E1E</color>
+
+    <color name="bg1">#cb2d3e</color>
+    <color name="bg2">#ef473a</color>
+    <style name="Base.Theme.ScientificCalculator" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:fontFamily" >@font/compassebold</item>
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+
+    </style>
+</resources>
